@@ -51,7 +51,7 @@ Simple PHP blogging system.
 
 This PHP project is a simple CMS for easy blogging. It uses AdminLTE for Admin Panel & Dashboard. AdminLTE - Web BLog is Easy to Install. You can login to the dashboard to do everything form creating a blog post or page to setting site preferences or even change your Blog Template. This is what it currently looks like:
 
-![screen-shot](https://raw.githubusercontent.com/arduino-uno/integrating-adminLTE-docs/main/images/screenshot.png)
+![screen-shot](https://raw.githubusercontent.com/arduino-uno/integrating-adminLTE-docs/main/screenshot.png)
 
 ### Demo
 
