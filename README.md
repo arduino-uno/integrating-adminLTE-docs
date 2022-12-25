@@ -4,7 +4,7 @@ description: Project Documentation for user
 
 # Documentation
 
-<p align="center"><img src="images/item-logo.png" alt="ninja-logo" height="300px" alt="AdminLTE - Web BLog"></p>
+<p align="center"><img src="./item-logo.png" alt="ninja-logo" height="300px" alt="AdminLTE - Web BLog"></p>
 
 <h2 align="center">AdminLTE - Web-Blog</h1>
 <div align="center">
