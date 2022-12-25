@@ -13,7 +13,7 @@ description: Project Documentation for user
 [![jquery](https://img.shields.io/badge/jQuery-3.6.0-brightgreen.svg?logo=jquery&logoColor=white)](https://jquery.com)
 [![php](https://img.shields.io/badge/php-7.2-critical.svg?logo=php&logoColor=white)](https://www.php.net)
 [![mysql](https://img.shields.io/badge/mysql-8.0-blue.svg?logo=mysql&logoColor=white)](https://www.mysql.com)
-[![License](https://img.shields.io/github/license/arduino-uno/talif-blog)](LICENSE.md)
+[![License](https://img.shields.io/github/license/arduino-uno/integrating-adminLTE-docs)](LICENSE.md)
 
 </div>
 
@@ -51,12 +51,12 @@ Simple PHP blogging system.
 
 This PHP project is a simple CMS for easy blogging. It uses AdminLTE for Admin Panel & Dashboard. AdminLTE - Web BLog is Easy to Install. You can login to the dashboard to do everything form creating a blog post or page to setting site preferences or even change your Blog Template. This is what it currently looks like:
 
-![screen-shot](https://raw.githubusercontent.com/arduino-uno/talif-blog/main/images/screenshot.png)
+![screen-shot](https://raw.githubusercontent.com/arduino-uno/integrating-adminLTE-docs/main/images/screenshot.png)
 
 ### Demo
 
-* Website: [http://sintara.co.id/talif-blog](http://sintara.co.id/talif-blog)
-* App login: [http://sintara.co.id/talif-blog/login.php](http://sintara.co.id/talif-blog/login.php)
+* Website: [http://sintara.co.id/integrating-adminLTE-docs](http://sintara.co.id/integrating-adminLTE-docs)
+* App login: [http://sintara.co.id/integrating-adminLTE-docs/login.php](http://sintara.co.id/integrating-adminLTE-docs/login.php)
 
 ### Features
 
@@ -85,58 +85,58 @@ If you want to host AdminLTE - Web BLogyourself, you will need a server with:
 5. click on new at side navbar.
 6. give a database name as `blog_db` hit on create button.
 7. after creating database name click on import.
-8. browse the file in directory `talif-blog/database/blog_db.sql`.
-9. open any browser and type `http://localhost/talif-blog`.
+8. browse the file in directory `integrating-adminLTE-docs/database/blog_db.sql`.
+9. open any browser and type `http://localhost/integrating-adminLTE-docs`.
    * first register and then login
    * admin login details : **`Username`**`: admin |`**`Password`**`: admin`
 
 ## Screenshots
 * ### Login Page
-  ![login-page](https://raw.githubusercontent.com/arduino-uno/talif-blog/main/screenshots/AdminLTE-3-Log-in.png)
+  ![login-page](https://raw.githubusercontent.com/arduino-uno/integrating-adminLTE-docs/main/screenshots/AdminLTE-3-Log-in.png)
 
 * ### Dashboard v2
-  ![dashboard-v2](https://raw.githubusercontent.com/arduino-uno/talif-blog/main/screenshots/AdminLTE-3-Dashboard-2.png)
-  
+  ![dashboard-v2](https://raw.githubusercontent.com/arduino-uno/integrating-adminLTE-docs/main/screenshots/AdminLTE-3-Dashboard-2.png)
+
 * ### User Profile - Comments
-  ![user-profile](https://raw.githubusercontent.com/arduino-uno/talif-blog/main/screenshots/AdminLTE-3-User-Profile-1.png)
+  ![user-profile](https://raw.githubusercontent.com/arduino-uno/integrating-adminLTE-docs/main/screenshots/AdminLTE-3-User-Profile-1.png)
 
 * ### User Profile - Account
-  ![user-profile-account](https://raw.githubusercontent.com/arduino-uno/talif-blog/main/screenshots/AdminLTE-3-User-Profile-2.png)
-  
+  ![user-profile-account](https://raw.githubusercontent.com/arduino-uno/integrating-adminLTE-docs/main/screenshots/AdminLTE-3-User-Profile-2.png)
+
 * ### User Profile - Security
-  ![user-profile-security](https://raw.githubusercontent.com/arduino-uno/talif-blog/main/screenshots/AdminLTE-3-User-Profile-3.png)
-  
+  ![user-profile-security](https://raw.githubusercontent.com/arduino-uno/integrating-adminLTE-docs/main/screenshots/AdminLTE-3-User-Profile-3.png)
+
 * ### Activity Logs
-  ![activity-logs](https://raw.githubusercontent.com/arduino-uno/talif-blog/main/screenshots/AdminLTE-3-Dashboard-3.png)
-  
+  ![activity-logs](https://raw.githubusercontent.com/arduino-uno/integrating-adminLTE-docs/main/screenshots/AdminLTE-3-Dashboard-3.png)
+
 * ### Messaging
-  ![messaging](https://raw.githubusercontent.com/arduino-uno/talif-blog/main/screenshots/AdminLTE-3-Dashboard-4.png)
-  
+  ![messaging](https://raw.githubusercontent.com/arduino-uno/integrating-adminLTE-docs/main/screenshots/AdminLTE-3-Dashboard-4.png)
+
 * ### Web Contents
   * #### Manage Pages
-    ![manage-pages](https://raw.githubusercontent.com/arduino-uno/talif-blog/main/screenshots/AdminLTE-3-Manage-Pages.png)
-    
+    ![manage-pages](https://raw.githubusercontent.com/arduino-uno/integrating-adminLTE-docs/main/screenshots/AdminLTE-3-Manage-Pages.png)
+
   * #### Manage Posts
-    ![manage-posts](https://raw.githubusercontent.com/arduino-uno/talif-blog/main/screenshots/AdminLTE-3-Manage-Posts.png)
-    
+    ![manage-posts](https://raw.githubusercontent.com/arduino-uno/integrating-adminLTE-docs/main/screenshots/AdminLTE-3-Manage-Posts.png)
+
   * #### Manage Categories
-    ![manage-categories](https://raw.githubusercontent.com/arduino-uno/talif-blog/main/screenshots/AdminLTE-3-Manage-Categories.png)
-    
+    ![manage-categories](https://raw.githubusercontent.com/arduino-uno/integrating-adminLTE-docs/main/screenshots/AdminLTE-3-Manage-Categories.png)
+
   * #### Manage Contacts
-    ![manage-contacts](https://raw.githubusercontent.com/arduino-uno/talif-blog/main/screenshots/AdminLTE-3-Manage-Contacts.png)
-    
+    ![manage-contacts](https://raw.githubusercontent.com/arduino-uno/integrating-adminLTE-docs/main/screenshots/AdminLTE-3-Manage-Contacts.png)
+
   * #### Manage Comments
-    ![manage-comments](https://raw.githubusercontent.com/arduino-uno/talif-blog/main/screenshots/AdminLTE-3-Manage-Comments.png)
-    
+    ![manage-comments](https://raw.githubusercontent.com/arduino-uno/integrating-adminLTE-docs/main/screenshots/AdminLTE-3-Manage-Comments.png)
+
   * #### Manage Users
-    ![manage-users](https://raw.githubusercontent.com/arduino-uno/talif-blog/main/screenshots/AdminLTE-3-Manage-Users.png)
-    
+    ![manage-users](https://raw.githubusercontent.com/arduino-uno/integrating-adminLTE-docs/main/screenshots/AdminLTE-3-Manage-Users.png)
+
 * ### Site Manager
   * #### Site Info
-    ![site-info](https://raw.githubusercontent.com/arduino-uno/talif-blog/main/screenshots/AdminLTE-3-SiteInfo.png)
-    
+    ![site-info](https://raw.githubusercontent.com/arduino-uno/integrating-adminLTE-docs/main/screenshots/AdminLTE-3-SiteInfo.png)
+
   * #### Site Templates
-    ![site-templates](https://raw.githubusercontent.com/arduino-uno/talif-blog/main/screenshots/AdminLTE-3-SiteTemplate.png)
+    ![site-templates](https://raw.githubusercontent.com/arduino-uno/integrating-adminLTE-docs/main/screenshots/AdminLTE-3-SiteTemplate.png)
 
 ## Contact
 
