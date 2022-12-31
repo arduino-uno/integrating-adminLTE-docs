@@ -47,9 +47,9 @@ Simple PHP blogging system.
 * [Thank you for your purchase](./##thank-you-for-your-purchase)
 * [License](./##license)
 
-## Introduction
+## Pengenalan
 
-This PHP project is a simple CMS for easy blogging. It uses AdminLTE for Admin Panel & Dashboard. AdminLTE - Web BLog is Easy to Install. You can login to the dashboard to do everything form creating a blog post or page to setting site preferences or even change your Blog Template. This is what it currently looks like:
+Project PHP ini adalah CMS sederhana untuk dapat melakukan <i>Blogging</i> dengan mudah. Project ini menggunakan <strong>AdminLTE</strong> sebagai <i>Admin Dashboard & Control Panel</i>. <b>AdminLTE - Web BLog</b> sangat mudah untuk diinstall. Anda dapat <i>Login</i> ke <i>Dashboard</i> untuk melakukan segala hal mulai dari membuat posting dan halaman blog, mengatur preferensi situs atau bahkan mengubah <i>Template Blog</i> Anda. Seperti inilah tampilannya setelah melakukan penginstalan:
 
 ![screen-shot](https://raw.githubusercontent.com/arduino-uno/integrating-adminLTE-docs/main/screenshot.png)
 
@@ -58,17 +58,26 @@ This PHP project is a simple CMS for easy blogging. It uses AdminLTE for Admin P
 * Website: [http://sintara.co.id/integrating-adminLTE-docs](http://sintara.co.id/integrating-adminLTE-docs)
 * App login: [http://sintara.co.id/integrating-adminLTE-docs/login.php](http://sintara.co.id/integrating-adminLTE-docs/login.php)
 
-### Features
+### Fitur
 
-Modern Dashboard Secured Login Activity Logs of users Messaging Web Contents Management (Pages, Posts, Post Categories, Post Comments etc) Roles & Permissions Management Users Management Site Settings Site Template Options Easy to Install and Setup
+```
+[+] Modern Dashboard 
+[+] Secured Login
+[+] Activity Logs 
+[+] Users Management, Role & Permissions
+[+] Messaging
+[+] Web Contents Management (Pages, Posts, Post Categories, Post Comments etc)
+[+] Site Settings
+[+] Site Template Options
+```
 
-## Get Started
+## Memulai
 
-This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
+Ini adalah contoh bagaimana Anda dapat menjalankan instruksi dan menyiapkan Project Anda secara lokal ( `localhost` ). Untuk dapat menjalankan project ini secara lokal, ikuti beberapa langkah-langkah berikut ini.
 
-### Requirements
+### Yang dibutuhkan
 
-If you want to host AdminLTE - Web BLogyourself, you will need a server with:
+Jika Anda ingin menghosting Aplikasi ini sendiri, Anda memerlukan server dengan:
 
 ```
 [+] Minimum PHP v5.6
@@ -76,19 +85,17 @@ If you want to host AdminLTE - Web BLogyourself, you will need a server with:
 [+] mod_rewrite Apache
 ```
 
-### Installation
+### Instalasi
 
-1. Install XAMPP or WAMPP.
-2. Open XAMPP Control panal and start \[apache] and \[mysql] .
-3. Download and Unzipp the given files and moving them to htdocs `C:\xampp\htdocs`.
-4. open link `localhost/phpmyadmin`.
-5. click on new at side navbar.
-6. give a database name as `blog_db` hit on create button.
-7. after creating database name click on import.
-8. browse the file in directory `integrating-adminLTE-docs/database/blog_db.sql`.
-9. open any browser and type `http://localhost/integrating-adminLTE-docs`.
-   * first register and then login
-   * admin login details : **`Username`**`: admin |`**`Password`**`: admin`
+1. Instal XAMPP atau WAMPP.
+2. Buka Control Panel XAMPP dan Start \[apache] dan \[mysql].
+3. Unduh dan Unzip file yang diberikan dan pindahkan ke htdocs `C:\xampp\htdocs`.
+4. Buka tautan `http://localhost/phpmyadmin`.
+5. Klik baru di navbar samping.
+6. Beri nama database sebagai `blog_db` tekan tombol Create.
+7. Setelah membuat nama database klik Import.
+8. Browse file di direktori `webblog/database/blog_db.sql`.
+9. Buka browser apa saja dan ketik alamat atau URL `http://localhost/talif-blog/login.php`.
 
 ## Screenshots
 * ### Login Page
